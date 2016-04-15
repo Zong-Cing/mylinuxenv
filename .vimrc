@@ -41,7 +41,7 @@ if version >= 600
     " set encoding=utf-8
     " set fileencoding=big5
     " set termencoding=big5
-    set encoding=big5
+    set encoding=utf8
     " set fileencodings=latin,big5,ucs-bom,utf-8,sjis,big5
     set fileencodings=ucs-bom,utf-8,sjis,big5,latin1
 else
