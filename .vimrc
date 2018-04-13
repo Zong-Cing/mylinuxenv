@@ -93,3 +93,4 @@ set nu " add by jarvis
 "set autochdir " for ctags
 
 ab uses use strict
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab "set tab/indent as 4 spaces
