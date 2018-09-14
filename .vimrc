@@ -70,8 +70,6 @@ if version >= 700
   map g9 :tabn 9<CR>
   map g0 :tabn 10<CR>
   map gc :tabnew<CR>
-  map gn :tabn<CR>
-  map gp :tabp<CR>
 
   highlight TabLineSel term=bold,underline cterm=bold,underline ctermfg=7 ctermbg=0
   highlight TabLine    term=bold cterm=bold
