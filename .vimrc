@@ -94,3 +94,9 @@ set nu " add by jarvis
 
 ab uses use strict
 set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab "set tab/indent as 4 spaces
+
+
+" for NERDTree 
+map <C-n> :NERDTreeToggle<CR>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif "close vim if the only window left open is a NERDTree
+""""""""""""""""""""""""""""""""""""""""""""""
