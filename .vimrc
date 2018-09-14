@@ -101,3 +101,8 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 
 " for Ag
 set runtimepath^=~/.vim/pack/my-plugins/ag
+""""""""""""""""""""""""""""""""""""""""""""""
+
+" for tagbar
+map <C-b> :TagbarToggle<CR>
+""""""""""""""""""""""""""""""""""""""""""""""
