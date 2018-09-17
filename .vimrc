@@ -106,3 +106,6 @@ set runtimepath^=~/.vim/pack/my-plugins/ag
 " for tagbar
 map <C-b> :TagbarToggle<CR>
 """"""""""""""""""""""""""""""""""""""""""""""
+
+" for YankRing
+map <C-y> :YRShow<CR>

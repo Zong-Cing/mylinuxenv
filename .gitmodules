@@ -10,3 +10,6 @@
 [submodule "vimPlugins/start/tagbar"]
 	path = vimPlugins/start/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "vimPlugins/start/YankRing.vim"]
+	path = vimPlugins/start/YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim.git
