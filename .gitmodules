@@ -13,3 +13,6 @@
 [submodule "vimPlugins/start/YankRing.vim"]
 	path = vimPlugins/start/YankRing.vim
 	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "vimPlugins/start/vim-mark"]
+	path = vimPlugins/start/vim-mark
+	url = https://github.com/mihais/vim-mark.git
