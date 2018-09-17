@@ -1,0 +1,12 @@
+[submodule "vimPlugins/start/ag.vim"]
+	path = vimPlugins/start/ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "vimPlugins/start/ctrlp.vim"]
+	path = vimPlugins/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vimPlugins/start/nerdtree"]
+	path = vimPlugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vimPlugins/start/tagbar"]
+	path = vimPlugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
