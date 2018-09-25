@@ -16,3 +16,6 @@
 [submodule "vimPlugins/start/vim-mark"]
 	path = vimPlugins/start/vim-mark
 	url = https://github.com/mihais/vim-mark.git
+[submodule "vimPlugins/start/vim-gitgutter"]
+	path = vimPlugins/start/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
