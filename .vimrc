@@ -109,3 +109,6 @@ map <C-b> :TagbarToggle<CR>
 
 " for YankRing
 map <C-y> :YRShow<CR>
+
+" for DirDiff 
+let g:DirDiffExcludes = "CVS,*.class,*.exe,.*.swp,*.git" 
