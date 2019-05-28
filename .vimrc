@@ -91,7 +91,7 @@ set nu " add by jarvis
 "set autochdir " for ctags
 
 ab uses use strict
-set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab "set tab/indent as 4 spaces
+set tabstop=2 softtabstop=2 expandtab shiftwidth=2 smarttab "set tab/indent as 2 spaces
 
 
 " for NERDTree 
@@ -115,5 +115,6 @@ let g:DirDiffExcludes = "CVS,*.class,*.exe,.*.swp,*.git"
 
 " for vim-linux-coding-style
 map <C-l> :LinuxCodingStyle<CR>
+let g:linuxsty_patterns = ["third_party/kernel"] " add chromium kernel
 
 set colorcolumn=81
