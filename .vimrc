@@ -115,3 +115,5 @@ let g:DirDiffExcludes = "CVS,*.class,*.exe,.*.swp,*.git"
 
 " for vim-linux-coding-style
 map <C-l> :LinuxCodingStyle<CR>
+
+set colorcolumn=81
